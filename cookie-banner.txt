@@ -1,4 +1,4 @@
-! Title: Cookie Banner
+! Title: Rules - Cookie Banner
 ##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-qo02w8.r-1m3jxhj.r-1awozwy.css-1dbjc4n
 abelhadigital.com##.cc-color-override-2132809765.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 about.me##.bubble-content
