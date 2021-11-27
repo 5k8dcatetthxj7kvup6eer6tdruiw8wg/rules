@@ -1,0 +1,10 @@
+! Title: Rules - Newsletter Popup
+cloudways.com##.inrblog_btm_scrbBar
+producthunt.com##.styles_wrapper__3tHOf.styles_responsive__96EZc.styles_flex-justify-center__3kSv0.styles_flex-direction-column__203zO.styles_flex-align-center__1-Br9.styles_flex__363IJ
+icqpodcast.com###yui_3_17_2_1_1616661114493_566
+timesofindia.indiatimes.com##div._1qZHm:nth-of-type(2)
+timesofindia.indiatimes.com##.contentwrapper.qUraj
+medicalnewstoday.com##.css-hq40b4
+medicalnewstoday.com##.backdrop.css-kqf6bc
+gurumuda.net##.active.mailpoet_form_tight_container.mailpoet_form_animation_slideup.mailpoet_form_position_.mailpoet_form_popup.mailpoet_form
+gurumuda.net##.active.mailpoet_form_overlay_animation.mailpoet_form_overlay_animation_slideup.mailpoet_form_popup_overlay
