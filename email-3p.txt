@@ -1,0 +1,4 @@
+! Title: Rules - Email third-party content blocker
+||$image,3p,domain=temp-mail.io|temp-mail.org|10minutemail.com|10minutemail.net|10minutemail.org|10minemail.com|tempail.com|tempmail.net|tempm.com|tempmailgen.com|temporarymail.com|emailondeck.com|mailpoof.com
+||proxy-m.kuku.lu$image
+||guerrillamail.com/res.php?r=*&n=img&q=*$image
