@@ -1,0 +1,15 @@
+! Title: Rules - Anti-Adblock Killer
+||mabelakita.blogspot.com^$inline-script
+||tomsguide.com^$inline-script
+||ajax.cloudflare.com$domain=freephonenum.com
+||cutgy.com^$inline-script
+kangoka.blogspot.com##.isiAds
+kangoka.blogspot.com###ignielAdBlock
+ayoriset.com###ignielAdBlock
+ayoriset.com##.isiAds
+iumaripix.blogspot.com##.inner
+iumaripix.blogspot.com###arlinablock
+||bizdustry.com^$inline-script
+||qrpastpapers.com^$inline-script
+wartajazz.com###tie-popup-adblock > .tie-popup-container > .container-wrapper
+wartajazz.com##.is-fixed-popup.tie-popup
