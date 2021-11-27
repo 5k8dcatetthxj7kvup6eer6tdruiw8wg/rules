@@ -1,0 +1,8 @@
+! Hide login / sign-up banner
+twitter.com##.r-qo02w8.r-urgr8i.css-1dbjc4n
+spotify.com##.Root__now-playing-bar > .now-playing-bar-container > .c45bc38be8a0ad1cdf6705f36d733245-scss
+instagram.com##.ZUqME.N9d2H.TxciK._7JkPY.D8xaz.O1flK.HcJZg.XfCBB.IY_1_.CIRqI._4EzTm.YBx95.pmxbr.IwRSH.Igw0E.tHaIX
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+disqus.com##.text-light.text-center.login-overlay__content
+disqus.com##.login-overlay__transparency
+tiktok.com##.guide-login-banner.jsx-558481964
